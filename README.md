@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning alignment and matching algorithms
 - 💞️ I’m looking forward to collaborate on metagenomics, planetary health related computational projects
 - 📫 How to reach me: genomicdatascience.phd@gmail.com
+# Genomic-Data-Science-Course
